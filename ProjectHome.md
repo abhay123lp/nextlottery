@@ -1,0 +1,1 @@
+A website which offers convenient workspace for lottery buyers to analyze, manage, and buy lotteries.
